@@ -10,7 +10,8 @@ Follow along with the screenshots in each section.
 
 Go to Edugator and click **Sign Up**.
 
-📸 **Screenshot:** Edugator homepage, outline Sign Up button
+<img width="1050" height="855" alt="edugator homepage, sign up button outlined" src="https://github.com/user-attachments/assets/53154cca-de6f-4c19-b9da-af8d34e03d24" />
+
 
 Enter:
 
@@ -22,7 +23,7 @@ Enter:
 
 After signing up, accept any course invitations sent by your instructor.
 
-📸 **Screenshot:** Course invitation screen, outline Accept invitation button
+<img width="1094" height="899" alt="invitations tab and accept button outlined" src="https://github.com/user-attachments/assets/33bab2ba-dae1-4a06-949c-1034d9483ff0" />
 
 ---
 
@@ -33,7 +34,8 @@ Once you’re logged in:
 1. Go to **Current Courses**
 2. Click your course
 
-📸 **Screenshot:** Current Courses page
+<img width="1094" height="899" alt="current courses tab" src="https://github.com/user-attachments/assets/aeead6c2-2b36-4cca-b348-4acf42dca2ea" />
+
 
 You’ll arrive at your **Course Home / Overview** page.
 
@@ -44,7 +46,8 @@ This page gives you a quick overview of:
 - Coding problems
 - Your progress
 
-📸 **Screenshot:** Course overview page
+<img width="1094" height="899" alt="course overview page" src="https://github.com/user-attachments/assets/02159679-bf90-480d-8072-7ff47798c86d" />
+
 
 ---
 
@@ -52,7 +55,7 @@ This page gives you a quick overview of:
 
 On the left side of the course page is the sidebar.
 
-📸 **Screenshot:** outline Sidebar 
+<img width="1094" height="899" alt="course overview page with sidebar outlined" src="https://github.com/user-attachments/assets/dc7ea0a0-c5f1-4c92-9b0f-9abb5ff56ce7" />
 
 ### Courses
 
@@ -66,7 +69,8 @@ Returns to the course overview page.
 
 Shows all lessons and coding problems in a compact dropdown view.
 
-📸 **Screenshot:** Content tab open with a module open
+<img width="1094" height="899" alt="content tab with a module open" src="https://github.com/user-attachments/assets/08ee1785-4ba7-411e-8459-25605268b407" />
+
 
 ### Exams
 
@@ -84,7 +88,8 @@ Shows:
 - Completed problems
 - Course progress
 
-📸 **Screenshot:** Grades page
+<img width="1094" height="899" alt="grades page" src="https://github.com/user-attachments/assets/4da0a91a-26fc-4c89-8669-c509e74bd9c9" />
+
 
 ---
 
@@ -123,15 +128,13 @@ Returns to the previous module.
 
 Will be explained more below but this is where you get to code and practice.
 
-📸 **Screenshot:** module 1.1 with arrows pointing to relevant icons and has label
+<img width="1094" height="899" alt="different icons in gutter labeled with arrows" src="https://github.com/user-attachments/assets/56f9bccf-5046-450e-ba3b-0e9aa207745c" />
 
 ---
 
 ## 6. Coding Problems
 
 Click a **computer icon** to open a coding problem.
-
-📸 **Screenshot:** Computer icon highlighted
 
 The screen is divided into two sides.
 
@@ -169,7 +172,8 @@ Write your code here.
 
 > **Important:** Keep your code inside the function provided for you.
 
-📸 **Screenshot:** whole coding problem dashboard with relevant tabs outlined and labeled
+<img width="1094" height="899" alt="entire dashboard that shows problem statement, submission history, AI assistant, and coding editor tabs" src="https://github.com/user-attachments/assets/1b6fb48d-5a68-487a-9022-0f70bc55263f" />
+
 
 ---
 
@@ -191,18 +195,19 @@ Click **Test Code**.
 
 Edugator will run your code and show console output.
 
-📸 **Screenshot:** Test Code button + output panel
+<img width="1094" height="899" alt="successful compilation of hello world" src="https://github.com/user-attachments/assets/0921d98c-57b6-420b-81e6-824f2f69b946" />
 
 Then click **Submit Code**.
 
+<img width="1094" height="899" alt="failed submission, 0% score" src="https://github.com/user-attachments/assets/fc957eb9-bd0c-4542-9236-198893287ebb" />
+
 If something fails:
 
-Read the test feedback. There is usually a hint that will guide you to fix your code.
-
+You can read each test case's feedback by hitting the corresponding **View** button. There is usually a hint that will guide you to fix your code.
 
 Example:
 
-> Hint -- Make sure you do not add extra white space or new lines at the end of the output as we compare exact outputs.
+<img width="1094" height="899" alt="submission results" src="https://github.com/user-attachments/assets/02c86b64-1c57-4e44-8911-b70e49ab6174" />
 
 Fix the issue and submit again.
 
@@ -212,7 +217,8 @@ Fix the issue and submit again.
 std::cout << "Hello World";
 ```
 
-📸 **Screenshot:** Failed test → passed test
+<img width="1094" height="899" alt="hello world problem passing" src="https://github.com/user-attachments/assets/14fde711-a78d-425f-b46d-114dea418e96" />
+
 
 > **Tip:** Edugator uses 	`dif` to check that your output is correct. Due to this, your output needs to be EXACTLY the same as the expected output (`dif` is case-sensitive and whitespace sensitive). 
 
@@ -228,7 +234,9 @@ You can review:
 
 Under **Submission History** in the left panel.
 
-📸 **Screenshot:** Submission history panel
+<img width="1094" height="899" alt="submission history tab" src="https://github.com/user-attachments/assets/2b5ae155-d02e-470f-a4cb-5a76aa892231" />
+
+Submissions have a percentage while runs will not.
 
 ---
 
@@ -256,6 +264,8 @@ You can control the input using:
 
 **Testing tab → STDIN**
 
+<img width="1094" height="899" alt="whole problem after hitting test code with stdin tab of testing tab outlined" src="https://github.com/user-attachments/assets/44353586-6c73-4056-97f5-12e209954ffc" />
+
 Example input:
 
 ```text
@@ -263,13 +273,15 @@ Example input:
 4
 ```
 
+<img width="1094" height="899" alt="stdin tab with 3 and 4" src="https://github.com/user-attachments/assets/4de503f1-3691-4972-91e3-70bba3cfe16a" />
+
 Expected output:
 
 ```text
 7
 ```
 
-📸 **Screenshot:** STDIN + output panel
+<img width="1094" height="899" alt="output tab with the output 7" src="https://github.com/user-attachments/assets/d56dd7c8-399d-49b9-a5df-08b411935748" />
 
 ---
 
@@ -295,7 +307,8 @@ Edugator will display:
 - Line number
 - Compiler feedback
 
-📸 **Screenshot:** Compiler error
+<img width="1094" height="899" alt="whole tab with error" src="https://github.com/user-attachments/assets/f4df6b12-520b-45f4-a465-821bb43178eb" />
+
 
 Reading the error message is a great habit.
 
@@ -309,7 +322,8 @@ If you get stuck:
 
 Open **AI Assistant**. The AI assistant has access to your code editor but will not give you code. Using the AI assistant is great practice in learning how to ask the right questions.
 
-📸 **Screenshot:** AI assistant first message
+<img width="1094" height="899" alt="whole coding problem with AI assistant tab selected, welcome message from AI assistant is visible" src="https://github.com/user-attachments/assets/6addd4ec-dd19-45e6-b97f-25b7937ee024" />
+
 
 ### C++ Example Bug
 
@@ -350,7 +364,7 @@ The AI Assistant can help identify:
 
 Then you can return to your code and fix it.
 
-📸 **Screenshot:** AI assistant's answer and correction in code editor
+<img width="1135" height="931" alt="20th" src="https://github.com/user-attachments/assets/d10044e1-f021-48bd-9724-5345003625b9" />
 
 ---
 
