@@ -187,12 +187,6 @@ Then write your code in the editor.
 std::cout << "Hello World" << std::endl;
 ```
 
-### Python
-
-```python
-print("Hello World")
-```
-
 Click **Test Code**.
 
 Edugator will run your code and show console output.
@@ -216,12 +210,6 @@ Fix the issue and submit again.
 
 ```cpp
 std::cout << "Hello World";
-```
-
-### Python
-
-```python
-print("Hello World", end="")
 ```
 
 📸 **Screenshot:** Failed test → passed test
@@ -260,15 +248,6 @@ std::cin >> firstInput;
 std::cin >> secondInput;
 
 std::cout << firstInput + secondInput;
-```
-
-### Python Example
-
-```python
-firstInput = input()
-secondInput = input()
-
-print(int(firstInput) + int(secondInput))
 ```
 
 Click **Test Code**.
