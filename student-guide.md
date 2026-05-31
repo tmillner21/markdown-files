@@ -141,9 +141,7 @@ Contains:
 
 #### Problem Statement
 
-Instructions for what you need to code.
-
-📸 **Screenshot:** problem statement
+Instructions for what you need to code, may include some examples.
 
 #### Submission History
 
@@ -152,8 +150,6 @@ See:
 - Previous submissions
 - Passed/failed attempts
 - Test runs
-
-📸 **Screenshot:** submission history after some attempts
 
 ####  AI Assistant
 
@@ -165,8 +161,6 @@ It will **not** give you the answer directly, but it can:
 - Point out mistakes
 - Suggest what to check next
 
-📸 **Screenshot:** AI assistant's first message 
-
 ### Right Side
 
 This is your coding editor.
@@ -175,7 +169,7 @@ Write your code here.
 
 > **Important:** Keep your code inside the function provided for you.
 
-📸 **Screenshot:** Editor screenshotted
+📸 **Screenshot:** whole coding problem dashboard with relevant tabs outlined and labeled
 
 ---
 
