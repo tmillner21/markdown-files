@@ -259,8 +259,8 @@ You can control the input using:
 Example input:
 
 ```text
-4
 3
+4
 ```
 
 Expected output:
@@ -311,22 +311,6 @@ Open **AI Assistant**. The AI assistant has access to your code editor but will 
 
 📸 **Screenshot:** AI assistant first message
 
-Describe your issue.
-
-Example:
-
-> “I’m trying to write a program that takes in two numbers from a user and outputs the sum of those numbers, but I’m getting an error.”
-
-The AI Assistant can help identify:
-
-- Syntax errors
-- Input mistakes
-- Logic bugs
-
-Then you can return to your code and fix it.
-
-📸 **Screenshot:** AI response example
-
 ### C++ Example Bug
 
 Let's go back to the example above of using `cin` incorrectly:
@@ -345,20 +329,26 @@ Input:
 Output:
 
 ```text
-some compiler error
+main.cpp: In function ‘int main()’:
+main.cpp:10:12: error: no match for ‘operator<<’ (operand types are ‘std::istream’ {aka ‘std::basic_istream<char>’} and ‘int’)
+   10 |   std::cin << firstInput;
+      |   ~~~~~~~~ ^~ ~~~~~~~~~~
+      |        |      |
+      |        |      int
+      |        std::istream {aka std::basic_istream<char>}
 ```
 
-Ask AI assistant:
+Describe your issue:
 
-> “my code is erroring out around line #, could you help me figure out why?”
+> “I’m trying to write a program that takes in two numbers from a user and outputs the sum of those numbers, but I’m getting an error around line 10”
 
-Buddy explains that `cin` uses `>>` and not `<<`.
+The AI Assistant can help identify:
 
-Then update:
+- Syntax errors
+- Input mistakes
+- Logic bugs
 
-```cpp
-std::cin >> firstInput;
-```
+Then you can return to your code and fix it.
 
 📸 **Screenshot:** AI assistant's answer and correction in code editor
 
