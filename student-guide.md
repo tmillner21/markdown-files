@@ -140,40 +140,39 @@ The screen is divided into two sides.
 
 ### Left Side
 
-Contains:
-
-#### Problem Statement
-
-Instructions for what you need to code, may include some examples.
-
-#### Submission History
-
-See:
-
-- Previous submissions
-- Passed/failed attempts
-- Test runs
-
-####  AI Assistant
-
-Edugator’s AI assistant can help guide you if you get stuck while solving problems.
-
-It will **not** give you the answer directly, but it can:
-
-- Explain errors
-- Point out mistakes
-- Suggest what to check next
+> Contains:
+>
+> #### Problem Statement
+>
+> Instructions for what you need to code, may include some examples.
+>
+> #### Submission History
+>
+> See:
+>
+> - Previous submissions
+> - Passed/failed attempts
+> - Test runs
+>
+> #### AI Assistant
+>
+> Edugator’s AI assistant can help guide you if you get stuck while solving problems.
+>
+> It will **not** give you the answer directly, but it can:
+>
+> - Explain errors
+> - Point out mistakes
+> - Suggest what to check next
 
 ### Right Side
 
-This is your coding editor.
-
-Write your code here.
-
+> This is your coding editor.
+>
+> Write your code here.
+>
 > **Important:** Keep your code inside the function provided for you.
-
-<img width="1094" height="899" alt="entire dashboard that shows problem statement, submission history, AI assistant, and coding editor tabs" src="https://github.com/user-attachments/assets/1b6fb48d-5a68-487a-9022-0f70bc55263f" />
-
+>
+> <img width="1094" height="899" alt="entire dashboard that shows problem statement, submission history, AI assistant, and coding editor tabs" src="https://github.com/user-attachments/assets/1b6fb48d-5a68-487a-9022-0f70bc55263f" />
 
 ---
 
@@ -220,7 +219,7 @@ std::cout << "Hello World";
 <img width="1094" height="899" alt="hello world problem passing" src="https://github.com/user-attachments/assets/14fde711-a78d-425f-b46d-114dea418e96" />
 
 
-> **Tip:** Edugator uses 	`dif` to check that your output is correct. Due to this, your output needs to be EXACTLY the same as the expected output (`dif` is case-sensitive and whitespace sensitive). 
+> **Tip:** Edugator uses `diff` to check that your output is correct. Due to this, your output needs to be EXACTLY the same as the expected output (`diff` is case-sensitive and whitespace sensitive). 
 
 ---
 
@@ -370,7 +369,7 @@ Then you can return to your code and fix it.
 
 ## 12. Final Tips
 
-✅ Use your school email 
+✅ Use your school email  
 ✅ Read lesson content carefully  
 ✅ Test before submitting  
 ✅ Read error messages  
